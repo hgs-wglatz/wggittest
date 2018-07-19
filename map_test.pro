@@ -1,3 +1,6 @@
+;;changed 18:23
+
+
 function WidWinHandler::Init,guibase
   self.guibase=guibase
   return, 1
