@@ -1,8 +1,12 @@
+;change 19:26
+;change 19:24
+;change 19:08
+;changed 18:52
 ;change 18:34
 ;change 18:32
 ;change 18:30
 ;change 18:28
-;;changed 18:23
+;;changed 18:23 
 
 
 
