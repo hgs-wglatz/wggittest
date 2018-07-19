@@ -145,4 +145,5 @@ pro map_test
     mg.COLOR = 'blue' & mg.LINESTYLE = 3
     imgsat.hide=0
   endif 
+     
 end
