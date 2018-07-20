@@ -1,3 +1,6 @@
+
+;changed 16:59
+
 ;changed 16:62 
 
 ;change 19:26
@@ -14,7 +17,7 @@
 
 function WidWinHandler::Init,guibase
   self.guibase=guibase
-  return, 1
+  return, 0
 end
 
 function WidWinHandler::MouseMotion, oWin, x, y, KeyMods
