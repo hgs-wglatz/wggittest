@@ -1,5 +1,15 @@
+
 ;changed branch local 17:20
+
 ;changed branch local 17:02
+;changed 16:59
+
+
+;changed local master 17:12
+
+;changed github master 17:12
+
+
 ;changed 16:62 
 
 ;change 19:26
@@ -16,7 +26,7 @@
 
 function WidWinHandler::Init,guibase
   self.guibase=guibase
-  return, 1
+  return, 0
 end
 
 function WidWinHandler::MouseMotion, oWin, x, y, KeyMods
